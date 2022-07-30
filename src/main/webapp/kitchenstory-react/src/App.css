@@ -1,0 +1,10 @@
+body
+{
+  background-color: aliceblue;
+}
+
+.list-of-fooditems
+{
+  display: flex;
+  background-color: bisque;
+}
